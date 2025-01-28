@@ -29,11 +29,6 @@ This step is crucial to prevent issues with vehicle still respawning after delet
 - Every [configurable interval], the script checks if any vehicles have despawned.  
 - If a despawned vehicle is detected and there’s a player within the set radius (default: 100 meters), it respawns the vehicle at its last known location with all its properties intact.
 
-### 📥 Download:  
-[GitHub Repo] **  
-
----
-
 ### 📝 Notes:  
 - This script is **not a despawn prevention tool** but rather a **respawn solution** for despawned vehicles.  
 - Tested on QBCore with excellent performance — should work on most setups with minor adjustments.  
