@@ -1,5 +1,5 @@
 
-I was fed up with paid resources for basic functionality, so I created a **vehicle respawn script** for **QBCore** and decided to release it for FREE. 🚗✨  
+I was fed up with paid resources for basic functionality, so I created a **vehicle respawn script** for **QBCore** and decided to release it for free. 🚗✨  
 
 ### 📜 What Does It Do?  
 This script helps keep vehicles in the world even if they despawn! It checks for vehicles that have despawned and respawns them with the **same properties** and **at the same location** as long as there’s a player nearby (minimum distance configurable). Perfect for ensuring vehicles don’t just vanish without reason during RP!  
